@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    background-image: url('./background yes.jfif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 200px;
+}
+
+div{
+    background-color:salmon;
+    margin-top: 50px;
+    opacity: 0.8;
+}
+
+h1{
+    font-size: 40px;
+    color: teal;
+}
+
+h2{
+    font-size: 30px;
+    color:mediumblue;
+}
+
+p{
+    font-size: 32px;
+    color:red
+}
+
+ul{
+    font-size: 30px;
+    color: darkmagenta;
+}

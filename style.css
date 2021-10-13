@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Ubuntu:wght@300&display=swap');
+body{
+    background-image: url('./backgroundimage.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+     font-family: 'Oswald', sans-serif;
+     text-align: center;
+}
+
+img{
+    opacity: 0.8;
+    height: 100px;
+    width: 200px;
+}
+
+div{
+    background-color:violet;
+    margin-top: 50px;
+    opacity: 0.8;
+}
+
+h1{
+    color: blue;
+    font-size: 40px;
+}
+
+h2{
+    color: crimson;
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Oswald:wght@500&family=Titillium+Web:wght@600&family=Ubuntu:wght@300&display=swap');
+body{
+    background-image: url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+
+img{
+    height: 100px;
+}
+
+div{
+    background-color: teal;
+    opacity: 0.8;
+    margin-top: 50px;
+
+}
+
+h2{
+    color:beige ;
+}
+
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 30px;
+    color: greenyellow;
+}
+
+a{
+    font-size: 25px;
+}
